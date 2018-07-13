@@ -6,7 +6,7 @@ The project files for my Barcode Scanning in Xamarin Forms blog post.
 
 [![Language](https://img.shields.io/badge/Language-C%23-brightgreen.svg)]() [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]() [![Release](https://img.shields.io/badge/Release-v1.0-blue.svg)]() [![GitHub issues](https://img.shields.io/github/issues/Axemasta/ScrollingViewExample-XAM.svg)](https://github.com/Axemasta/Barcode-Scanning-MVVM/issues)
 
-This repository contains the source code for my **Barcode Scanning in Xamarin Forms** tutorial, over on my [wordpress site](https://alexduffell.wordpress.com/1018).
+This repository contains the source code for my **Barcode Scanning in Xamarin Forms** tutorial, over on my [wordpress site](https://alexduffell.wordpress.com/2018/07/13/barcode-scanning-in-xamarin-forms/).
 
 ## Results
 
