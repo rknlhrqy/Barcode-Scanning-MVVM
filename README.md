@@ -1,4 +1,6 @@
-# Barcode Scanning in Xamarin Forms
+<div align="center">
+    <img src="images\Banner Image.png"</img> 
+</div>
 
 The project files for my Barcode Scanning in Xamarin Forms blog post.
 
@@ -6,7 +8,13 @@ The project files for my Barcode Scanning in Xamarin Forms blog post.
 
 This repository contains the source code for my **Barcode Scanning in Xamarin Forms** tutorial, over on my [wordpress site](https://alexduffell.wordpress.com/1018).
 
-_Insert Image Here_
+## Results
+
+Here is the end result of this repo, running on iOS & Android devices!
+
+<div align="center">
+    <img src="images\Barcode Scan Devices.png" height="500px"</img> 
+</div>
 
 ## Nuget Packages
 
