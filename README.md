@@ -12,16 +12,14 @@ _Insert Image Here_
 
 This project uses the following NuGet Packages...
 
-_due to an Android bug with ZXing Mobile 2.4.1, the Android project is using Zxing Mobile 2.3.2_
+_due to an Android bug with ZXing Mobile 2.4.1, you may find that the android version does not scan. If you encounter this issue, try restoring the NuGet packages and if that fails try downgrading the Zxing.Mobile & Zxing.Mobile.Form packages in the android project to 2.3.2_
 
-| Package            | Projects            | Version      |
-| ------------------ | ------------------- | ------------ |
-| Xamarin Forms      | Forms, Android, iOS | 3.1.0.583944 |
-| Prism.DryIoc.Forms | Forms, Android, iOS | 7.0.0.396    |
-| Zxing.Mobile       | Forms, iOS          | 2.4.1        |
-| Zxing.Mobile       | Android             | 2.3.2        |
-| Zxing.Mobile.Forms | Forms, iOS          | 2.4.1        |
-| ZXing.Mobile.Forms | Android             | 2.3.2        |
+| Package                                                      | Purpose                               | Version      |
+| ------------------------------------------------------------ | ------------------------------------- | ------------ |
+| [Xamarin Forms](https://github.com/xamarin/Xamarin.Forms)    | Xamarin... 😉                          | 3.1.0.583944 |
+| [Prism.DryIoc.Forms](https://github.com/PrismLibrary/Prism)  | Dependency Injection Container + More | 7.0.0.396    |
+| [Zxing.Mobile](https://github.com/Redth/ZXing.Net.Mobile)    | Barcode Scanning                      | 2.4.1        |
+| [Zxing.Mobile.Forms](https://github.com/Redth/ZXing.Net.Mobile) | Barcode Scanning                      | 2.4.1        |
 
 
 
