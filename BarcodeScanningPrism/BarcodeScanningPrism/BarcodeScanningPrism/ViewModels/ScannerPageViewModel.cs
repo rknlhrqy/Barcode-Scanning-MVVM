@@ -60,7 +60,7 @@ namespace BarcodeScanningPrism.ViewModels
             }
             set
             {
-                if (SetProperty(ref _isAnalyzing, value))
+                if (SetProperty(ref _isScanning, value))
                 {
                     //Do something
                 }
